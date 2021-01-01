@@ -1,5 +1,5 @@
 {
-    "name": "elite-devs/flarum-ext-arabic",
+    "name": "SamerAssil/flarum-ext-arabic",
     "type": "flarum-extension",
     "description": "تعريب الفلاروم",
     "keywords": ["locale"],
