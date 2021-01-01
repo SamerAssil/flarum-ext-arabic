@@ -10,6 +10,7 @@
     "extra": {
         "flarum-extension": {
             "title": "العربية",
+	    "category": "language",
             "icon": {
                 "image": "icon.png",
                 "backgroundColor": "#00247d",
