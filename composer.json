@@ -1,11 +1,11 @@
 {
-    "name": "SamerAssil/flarum-ext-arabic",
+    "name": "SamerAssil/flarum-lang-arabic",
     "type": "flarum-extension",
     "description": "تعريب الفلاروم",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0-beta.14"
+        "flarum/core": "^0.1.0-beta.15"
     },
     "extra": {
         "flarum-extension": {
